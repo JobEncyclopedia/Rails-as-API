@@ -8,7 +8,7 @@ gem 'spring', :group => :development
 
 gem 'tzinfo-data'
 
-gem 'sqlite3'
+# gem 'sqlite3'
 
 gem 'mongoid', '~> 6.2.0'
 gem 'will_paginate', '~>3.1.6'
